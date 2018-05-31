@@ -1,3 +1,4 @@
+# Hello from the other side
 input = raw_input("Speak:")
 if input == "hey":
     print ("Hi there")
